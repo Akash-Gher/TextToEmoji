@@ -24,8 +24,8 @@
         return text
       }
       
-    //   document.getElementById('test').innerHTML = emojiIt(regExpression, text)
-      document.getElementById('myText').innerHTML = emojiIt(regExpression, text)
+      document.getElementById('test').innerHTML = emojiIt(regExpression, text)
+     
       
     
   
